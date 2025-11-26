@@ -1,0 +1,10 @@
+pandas
+pydantic
+streamlit
+pytest
+PyMuPDF
+python-docx
+tiktoken
+pyyaml
+requests
+numpy
